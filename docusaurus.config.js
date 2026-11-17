@@ -47,7 +47,7 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: '107T White Paper Series',
+        title: 'Vonnegut Research Series',
         logo: {
           alt: 'Series mark',
           src: 'img/palm.svg',
