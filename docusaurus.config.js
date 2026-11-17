@@ -8,9 +8,9 @@ const config = {
   future: {},
 
   url: 'https://delaneymangan-prog.github.io',
-  baseUrl: '/WRIT107T_Template/',
+  baseUrl: '/Vonnegut Research Series/',
   organizationName: 'delaneymangan-prog',
-  projectName: 'WRIT107T_Template',
+  projectName: 'Vonnegut Research Series',
   trailingSlash: false,
   onBrokenLinks: 'throw',
 
